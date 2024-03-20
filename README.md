@@ -1,5 +1,5 @@
 # 💫 About Me:
-Poursuivant ma transition professionnelle, j’ai décidé de mettre à<br>profit mon expérience du médico-social pour donner une<br>dimension humaine à mes projets. Je suis animé par le désir de<br>résoudre des problèmes complexes et de contribuer à des projets<br>innovants. À la recherche de nouveaux défis, je suis déterminé à<br>atteindre l’excellence dans chaque mission pour contribuer au<br>succès de l’entreprise avec créativité et dynamisme.
+Poursuivant ma transition professionnelle, j’ai décidé de mettre à profit mon expérience du médico-social pour donner une dimension humaine à mes projets. Je suis animé par le désir de résoudre des problèmes complexes et de contribuer à des projets innovants. À la recherche de nouveaux défis, je suis déterminé à atteindre l’excellence dans chaque mission pour contribuer au succès de l’entreprise avec créativité et dynamisme.
 
 
 ## 🌐 Socials:
