@@ -46,17 +46,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ThiessetFabien&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 💫 About Me:
-Poursuivant ma transition professionnelle, j’ai décidé de mettre à profit mon expérience du médico-social pour donner une dimension humaine à mes projets. Je suis animé par le désir de résoudre des problèmes complexes et de contribuer à des projets innovants. À la recherche de nouveaux défis, je suis déterminé à atteindre l’excellence dans chaque mission pour contribuer au succès de l’entreprise avec créativité et dynamisme.
-
 ---
 
 ## 🌐 Socials:
@@ -64,6 +53,9 @@ Poursuivant ma transition professionnelle, j’ai décidé de mettre à profit m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabien-thiesset) 
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=IcHeldan1986&icon=0&color=0)](https://visitcount.itsvg.in)
 
