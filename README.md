@@ -4,11 +4,15 @@ After coordinating the Establishment Projects and Label of a Medical Home with p
 
 As a programmer in my free time, I continue to build on skills and support my achievements by working on projects, exercises and concepts of object programming while also developing my soft skills in productivity, communication and pedagogy through reading and listening to audio books.
 
----
-
 # 💻 Web Developer, Full-Stack Javascript
 
-## ✍🏻 Plan
+## Discover my best project : Casalink 
+> ➡️[Repository frontend](https://github.com/ThiessetFabien/Casalink-Frontend/tree/dev)
+> ➡️ [Repository backend](https://github.com/ThiessetFabien/Casalink-Backend)
+---
+
+## Stack
+### ✍🏻 Plan
 | *Project Management*                                                                                       | *Methodology*                                                                                         | *Application Design*                                                                                         |
 | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 | ![Static Badge](https://img.shields.io/badge/Utils:-Notion_Trello-black?style=for-the-badge)               | ![Static Badge](https://img.shields.io/badge/Manifest-Agile_Scrum-blue?style=for-the-badge)           | ![Static Badge](https://img.shields.io/badge/Prepare_specification-gray?style=for-the-badge)                 |
@@ -17,7 +21,7 @@ As a programmer in my free time, I continue to build on skills and support my ac
 | ![Static Badge](https://img.shields.io/badge/Office_suite:-Google%20Workspace-blue?style=for-the-badge)    |
 ---
 
-## {...} Code
+### {...} Code
 | *Development Environment*                                                                                               | *Frontend*                                                                                       | *Backend*                                                                      | *Database*                                                                                      | *Integration*                                                                            |
 | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | ![Static Badge](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge)                                       | ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)                | ![Static Badge](https://img.shields.io/badge/Node-green?style=for-the-badge)   | ![Static Badge](https://img.shields.io/badge/SQL:-Postgres-blue?style=for-the-badge)            | ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)           |
@@ -28,7 +32,7 @@ As a programmer in my free time, I continue to build on skills and support my ac
 |![Static Badge](https://img.shields.io/badge/Windows:-_11-blue?style=for-the-badge)                                      |
 ---
 
-## ✳️  Other
+### ✳️  Other
 | *Documentation*                                                                  | *CRM*                                                                         | *Build*                                                                     | *Containerization*                                                            |
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 | ![Static Badge](https://img.shields.io/badge/Markdown-black?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Strapi-blue?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Vite-blue?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge) |
@@ -36,7 +40,7 @@ As a programmer in my free time, I continue to build on skills and support my ac
 | ![Static Badge](https://img.shields.io/badge/JSDoc-black?style=for-the-badge)    |
 ---
 
-## ⚙️ DevOps
+### ⚙️ DevOps
 | *Test Driven Development*                                                                                            | *Release*                                                                      | *Deploy*                                                                                 | *Security*                                                                                    | *Design Patterns*                                                                  | *Good Practices*                                                                         |
 | :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | ![Static Badge](https://img.shields.io/badge/Test_unitaire:-Mocha_&_Chai,_Jest-brown?style=for-the-badge)            | ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge)      | ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Authentication:-JWT-black?style=for-the-badge  ) | ![Static Badge](https://img.shields.io/badge/MVC-gray?style=for-the-badge)         | ![Static Badge](https://img.shields.io/badge/SEO-gray?style=for-the-badge)               |
@@ -49,11 +53,11 @@ As a programmer in my free time, I continue to build on skills and support my ac
 |                                                                                                                      |                                                                                |                                                                                          | ![Static Badge](https://img.shields.io/badge/Regex-green?style=for-the-badge)                 |                                                                                    |                                                                                          |
 ---
 
-## 📚 Learning:
+### 📚 Learning:
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
 ---
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vij157164) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabien-thiesset) 
 [![](https://visitcount.itsvg.in/api?id=IcHeldan1986&icon=0&color=0)](https://visitcount.itsvg.in)
