@@ -33,7 +33,11 @@ As a programmer in my free time, I continue to build on my skills and support my
     <summary>
         <b>Development Environment</b>
     </summary>
+<<<<<<< HEAD
     Visual Studio Code, PNPM, NPM, Yarn, ESLint AirBnb, Prettier, Bash, Zsh, Windows, Linux (Ubuntu Gnome & XFCE, Manjaro KDE Plasma), VirtualBox
+=======
+    Visual Studio Code, PNPM, NPM, Yarn, ESLint AirBnb, Prettier, Bash, Zsh, Windows, Linux (Ubuntu, Manjaro), VirtualBox
+>>>>>>> efe815451cdd48ea62b0d3ac8fd5de8a6911cd7d
 </details>
 <details>
     <summary>
@@ -51,7 +55,11 @@ As a programmer in my free time, I continue to build on my skills and support my
     <summary>
         <b>Database</b>
     </summary>
+<<<<<<< HEAD
     PostgreSQL/psql/PgAdmin, MongoDB/mongosh, GraphQL, Squitch
+=======
+    PostgreSQL/psql, MongoDB/mongosh, GraphQL, Squitch
+>>>>>>> efe815451cdd48ea62b0d3ac8fd5de8a6911cd7d
 </details>
 <details>
     <summary>
@@ -111,4 +119,11 @@ As a programmer in my free time, I continue to build on my skills and support my
 ---
 ## Discover my best project: Casalink
 > ➡️ [Front-end](https://github.com/ThiessetFabien/Casalink-Frontend/tree/dev)
+<<<<<<< HEAD
 > ➡️ [Back-end](https://github.com/ThiessetFabien/Casalink-Backend)
+=======
+> ➡️ [Back-end](https://github.com/ThiessetFabien/Casalink-Backend)
+
+### 📚 Learning:
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
+>>>>>>> efe815451cdd48ea62b0d3ac8fd5de8a6911cd7d
