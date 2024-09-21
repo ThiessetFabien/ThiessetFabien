@@ -136,20 +136,20 @@
 
   - **Project Management**: Notion, Trello, Slack, WhatsApp, Discord, Zoom, Google Workspace, Microsoft Office, Thunderbird.
   - **Methodology**: Approaches Agile/Scrum, Kanban, Gantt, and Meurise (DD, MCD, MLD, MPD).
-  - **Application Design**: Use of specifications, user stories, Figma, zoning, wireframes, and endpoints.
-  - **Development Environment**: Visual Studio Code, PNPM, NPM, Yarn, ESLint AirBnb, Prettier, Bash, Zsh, and operating systems Windows and Linux (Ubuntu Gnome & XFCE, Manjaro KDE Plasma), VirtualBox.
-  - **Frontend**: Technologies like TypeScript, React.js, Redux.js, Vite.js, Ejs, WebSockets, and Bulma.
+  - **Application Design**: USpecifications, user stories, Figma, zoning (wireframes), and endpoints.
+  - **Development Environment**: Visual Studio Code, PNPM, NPM, Yarn, ESLint AirBnb, Prettier, Bash, Zsh, and operating systems Windows and Linux (Ubuntu Gnome & XFCE, Manjaro KDE Plasma), VirtualBox and others.
+  - **Frontend**:TypeScript, React.js, Redux.js, Vite.js, Ejs, WebSockets, and Bulma.
   - **Backend**: Node.js, Express.js, and Sequelize.
   - **Database**: PostgreSQL, MongoDB, GraphQL, and Squitch.
   - **Integration**: HTML, CSS, SCSS/SASS, Font Awesome, and Google Fonts.
   - **Documentation**: Markdown, Swagger, and JSDoc.
   - **CRM**: Strapi.
   - **Containerization**: Docker.
-  - **Tests**: Testing Mocha, Chai, Jest, RestClient, ThunderClient, and Supertest.
+  - **Tests**: Mocha, Chai, Jest, RestClient, ThunderClient, and Supertest.
   - **Versioning and Deployment**: Git, GitHub, GitHub Actions, Render, AWS, Vercel, and Nginx.
-  - **Security**: Security practices including JWT, HTTPS, OWASP, CORS, SQL Injection, XSS, Regex, Body Parser, Bcrypt, and Rate Limiter.
+  - **Security**: JWT, HTTPS, OWASP, CORS, SQL Injection, XSS, Regex, Body Parser, Bcrypt, and Rate Limiter.
   - **Architectural Design**: Models MVC, SPA, SSR, monolithic, multifront, and RESTful API.
-  - **Good Practices**: SEO, RGAA, W3C, responsive design, mobile first, and eco-design.
+  - **Good Practices**: SEO, RGAA, W3C, responsive design and mobile first, and eco-design.
 
 </details>
 
