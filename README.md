@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabien</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiessetfabien&" alt="thiessetfabien" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiessetfabien&" alt="thiessetfabien" /></p>
 
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=IcHeldan1986&icon=4&color=9" alt="thiessetfabien" /> </p>
 
@@ -15,18 +15,19 @@
 
 - 🤝 I’m looking for help with [alzC](https://github.com/alzC), [borisrose](https://github.com/borisrose) and [Chrstn67](https://github.com/Chrstn67)
 
-- 📝 I regularly write articles on my profil [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on **my profil LinkedIn**
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **thiessetfabienpro@gmail.com**
 
----
+- ⚡ Fun fact: **I am a fan of shōnen anime such as "One Piece", "Bleach", "Dragon Ball", "My Hero Academia", "Jujutsu Kaisen", Naruto, Demon Slayer, "Hunter x Hunter", "Naruto" and others**
+
 - 📄 Know about my experiences 
   
-  After coordinating the establishment of projects and the creation of a Medical Home for people with disabilities, committed to benevolence and digital accessibility, I received intensive training as a Web and Mobile Web Developer. 
+**After coordinating the establishment of projects and the creation of a Medical Home for people with disabilities, committed to benevolence and digital accessibility, I received intensive training as a Web and Mobile Web Developer.** 
   
-  As a programmer in my free time, I continue to build on my skills and support my achievements by working on projects, exercises, and object-oriented programming concepts while also developing my soft skills in productivity, communication, and pedagogy through reading and listening to audiobooks.
+**As a programmer in my free time, I continue to build on my skills and support my achievements by working on projects, exercises, and object-oriented programming concepts while also developing my soft skills in productivity, communication, and pedagogy through reading and listening to audiobooks.**
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -155,6 +156,6 @@
 
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiessetfabien&show_icons=true&locale=en&layout=compact" alt="thiessetfabien" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiessetfabien&show_icons=true&locale=en&layout=compact" alt="thiessetfabien" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiessetfabien&show_icons=true&locale=en" alt="thiessetfabien" /></p>
