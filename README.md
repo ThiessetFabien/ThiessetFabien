@@ -138,7 +138,7 @@
   - **Project Management**: Notion, Trello, Slack, WhatsApp, Discord, Zoom, Google Workspace, Microsoft Office, Thunderbird.
   - **Methodology**: Approaches Agile/Scrum, Kanban, Gantt, and Meurise (DD, MCD, MLD, MPD).
   - **Application Design**: USpecifications, user stories, Figma, zoning (wireframes), and endpoints.
-  - **Development Environment**: Visual Studio Code, PNPM, NPM, Yarn, ESLint AirBnb, Prettier, Bash, Zsh, and operating systems Windows and Linux (Ubuntu Gnome & XFCE, Manjaro KDE Plasma), VirtualBox and others.
+  - **Development Environment**: Visual Studio Code, PNPM, NPM, Yarn, ESLint AirBnb, Prettier, Bash/Zsh, and operating systems Windows and Linux (Ubuntu, Manjaro), VirtualBox and others.
   - **Frontend**:TypeScript, React.js, Redux.js, Vite.js, Ejs, WebSockets, and Bulma.
   - **Backend**: Node.js, Express.js, and Sequelize.
   - **Database**: PostgreSQL, MongoDB, GraphQL, and Squitch.
