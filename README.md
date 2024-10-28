@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on [JobNager](https://github.com/ThiessetFabien/Jobnager)
+- 🔭 I’m currently working on my [Portfolio](https://github.com/ThiessetFabien/ThiessetFabien.github.io)
 
 - 🌱 I’m currently learning **Next.js, Nest.js**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on **my profil LinkedIn**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript** and this **Framework**
 
 - 📫 How to reach me **thiessetfabienpro@gmail.com**
 
